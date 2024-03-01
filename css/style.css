@@ -4,7 +4,6 @@
 .main{
     width: 350px;               /* 幅指定 */
     height: 90px;               /* 高さ指定 */
-
     position: relative;         /* 位置指定の基準点にする */
     position: absolute;          /* x軸中央 */
     top:  0;                     /* x軸中央 */
